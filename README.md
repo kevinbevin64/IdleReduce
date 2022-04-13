@@ -8,3 +8,10 @@
 
 ### Example usage
 `python3 main.py --tasks 23 15 11 9 --operators 4 6`
+
+### Sample output
+`Operator 2 should be given tasks [5, 6, 7].`
+
+`Operator 8 should be given tasks [1000].`
+
+`In 125.0s, both will have completed their tasks.`
